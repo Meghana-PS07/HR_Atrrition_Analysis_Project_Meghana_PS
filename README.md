@@ -1,9 +1,13 @@
 HR Analytics & Attrition Dashboard – Project Summary
+
+
 Objective
 The objective of this project is to analyze employee attrition patterns, identify the key factors contributing to attrition, and provide actionable insights to improve employee retention and workforce stability.
+
 ________________________________________
 Dataset
 The dataset contains employee-level HR information including demographics (age, gender, education, marital status), job-related data (department, job role, salary band, overtime, years at company, tenure), and satisfaction metrics (job satisfaction, environment satisfaction, work-life balance).
+
 ________________________________________
  Key Insights
 1.	High Early Attrition
@@ -23,6 +27,7 @@ Departments with low job satisfaction scores (e.g., Sales, Technical roles) repo
 
 10.	Demographics
 Younger employees (<30) and single employees tend to leave at higher rates compared to older, married employees.
+
 ________________________________________
  Recommendations
 1.	Strengthen Onboarding & Mentorship
