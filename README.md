@@ -10,42 +10,37 @@ The dataset contains employee-level HR information including demographics (age, 
 
 ________________________________________
  Key Insights
-1.	High Early Attrition
-A significant proportion (~35–40%) of employees who leave the company do so within their first year of employment.
-
-2.	Impact of Overtime
-Employees working frequent overtime show a much higher attrition rate compared to those with balanced workloads.
-
-4.	Salary Band & Attrition
-Lower salary bands have the highest attrition, especially in entry-level roles, suggesting compensation is a strong driver.
-
-6.	Job Satisfaction
-Departments with low job satisfaction scores (e.g., Sales, Technical roles) report higher attrition compared to those with higher satisfaction (e.g., R&D, HR).
-
-8.	Tenure & Attrition
-	Attrition is highest among employees with less than 2 years tenure, then decreases significantly for those with >5 years in the company.
-
-10.	Demographics
-Younger employees (<30) and single employees tend to leave at higher rates compared to older, married employees.
+ 
+1.	Tenure Impact: Attrition is highest among employees with <1 year (36%) and 1–3 years (28%) tenure, suggesting early-stage disengagement.
+2.	Age Factor: 18–25 age group shows the highest attrition(36%), while attrition decreases significantly with age.
+3.	Overtime: Employees working overtime (30%) are almost 3x more likely to leave compared to those who don’t.
+4.	Job Roles & Departments:
+      Sales, Human Resources, and Laboratory Technicians show the highest attrition rates.
+      Sales department overall is most impacted.
+5.	Salary Influence: Attrition is concentrated in employees earning ≤ 5K, with rates declining as salary increases.
+6.	Work Environment Factors: Low job satisfaction, work-life balance, and environment satisfaction are directly correlated with higher attrition.
+7.	Higher bussiness travel frequency also results in higher attrition.
 
 ________________________________________
  Recommendations
 1.	Strengthen Onboarding & Mentorship
 Implement structured onboarding and mentorship programs to improve retention in the first 12 months.
 
+2.	Retention Programs for Young Talent
+Introduce career development pathways, training, and early promotions to reduce attrition among younger employees.
+
 3.	Workload & Overtime Management
 Monitor overtime closely; adopt workload-balancing policies to reduce burnout.
+
+4.	Focus on Employee Engagement
+Conduct regular satisfaction surveys, focusing badly affected departments and job roles and act on feedback.
 
 5.	Review Compensation Strategy
 Reassess salary structures in lower bands to improve competitiveness and reduce pay-related attrition.
 
-7.	Focus on Employee Engagement
-Conduct regular satisfaction surveys, particularly in high-turnover departments (e.g., Sales, Technical), and act on feedback.
+6. Implement employee engagement programs to improve job satisfaction & work-life balance.
 
-9.	Retention Programs for Young Talent
-Introduce career development pathways, training, and early promotions to reduce attrition among younger employees.
-
-11.	Data-Driven HR Strategy
+7.	Data-Driven HR Strategy
 	Continuously track KPIs such as attrition rate by tenure, salary band, and job role to proactively address emerging issues.
 
 
