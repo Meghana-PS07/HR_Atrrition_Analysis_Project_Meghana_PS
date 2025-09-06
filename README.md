@@ -1,15 +1,15 @@
-HR Analytics & Attrition Dashboard – Project Summary
+#HR Analytics & Attrition Dashboard – Project Summary
 
 
-Objective
+###Objective
 The objective of this project is to analyze employee attrition patterns, identify the key factors contributing to attrition, and provide actionable insights to improve employee retention and workforce stability.
 
 ________________________________________
-Dataset
+###Dataset
 The dataset contains employee-level HR information including demographics (age, gender, education, marital status), job-related data (department, job role, salary band, overtime, years at company, tenure), and satisfaction metrics (job satisfaction, environment satisfaction, work-life balance).
 
 ________________________________________
- Key Insights
+###Key Insights
  
 1.	Tenure Impact: Attrition is highest among employees with <1 year (36%) and 1–3 years (28%) tenure, suggesting early-stage disengagement.
 2.	Age Factor: 18–25 age group shows the highest attrition(36%), while attrition decreases significantly with age.
@@ -22,7 +22,7 @@ ________________________________________
 7.	Higher bussiness travel frequency also results in higher attrition.
 
 ________________________________________
- Recommendations
+###Recommendations
 1.	Strengthen Onboarding & Mentorship
 Implement structured onboarding and mentorship programs to improve retention in the first 12 months.
 
