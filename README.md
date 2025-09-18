@@ -1,41 +1,92 @@
-# HR Analytics & Attrition Dashboard – Project Summary
+# HR Analytics & Attrition Dashboard
 
+![HR Analytics Dashboard](assests/img/Screenshot 2025-09-03 131931.png) <!-- Optional: Add project image or screenshot -->
 
-### Objective
-The objective of this project is to analyze employee attrition patterns, identify the key factors contributing to attrition, and provide actionable insights to improve employee retention and workforce stability.
+## Project Overview
+The **HR Analytics & Attrition Dashboard** is a **Power BI project** designed to provide HR managers with actionable insights into employee attrition patterns.  
+It identifies key drivers of turnover and supports **data-driven strategies** to improve retention and workforce stability.
 
+---
 
-### Dataset
-The dataset contains employee-level HR information including demographics (age, gender, education, marital status), job-related data (department, job role, salary band, overtime, years at company, tenure), and satisfaction metrics (job satisfaction, environment satisfaction, work-life balance).
+## Key Features
+- **Attrition by Tenure**  
+- **Attrition by Age Group**  
+- **Attrition by Job Role & Department**  
+- **Salary Influence on Attrition**  
+- **Work Environment Factors** (Job Satisfaction, Work-Life Balance, Environment Satisfaction)  
+- **Overtime & Business Travel Analysis**  
 
+---
 
-### Key Insights
- 
-1.	Tenure Impact: Attrition is highest among employees with <1 year (36%) and 1–3 years (28%) tenure, suggesting early-stage disengagement.
-2.	Age Factor: 18–25 age group shows the highest attrition(36%), while attrition decreases significantly with age.
-3.	Overtime: Employees working overtime (30%) are almost 3x more likely to leave compared to those who don’t.
-4.	Job Roles & Departments:
-      Sales, Human Resources, and Laboratory Technicians show the highest attrition rates.
-      Sales department overall is most impacted.
-5.	Salary Influence: Attrition is concentrated in employees earning ≤ 5K, with rates declining as salary increases.
-6.	Work Environment Factors: Low job satisfaction, work-life balance, and environment satisfaction are directly correlated with higher attrition.
-7.	Higher bussiness travel frequency also results in higher attrition.
+## Dashboard Design
+The dashboard is **interactive and user-centric**, enabling HR managers to explore metrics and delve into specific trends.  
 
+### Filters:
+- Tenure  
+- Age Group  
+- Department  
+- Job Role  
+- Salary Band  
+- Overtime Status  
 
-### Recommendations
-1.	Strengthen Onboarding & Mentorship
-Implement structured onboarding and mentorship programs to improve retention in the first 12 months.
-2.	Retention Programs for Young Talent
-Introduce career development pathways, training, and early promotions to reduce attrition among younger employees.
-3.	Workload & Overtime Management
-Monitor overtime closely; adopt workload-balancing policies to reduce burnout.
-4.	Focus on Employee Engagement
-Conduct regular satisfaction surveys, focusing badly affected departments and job roles and act on feedback.
-5.	Review Compensation Strategy
-Reassess salary structures in lower bands to improve competitiveness and reduce pay-related attrition.
-6. Implement employee engagement programs to improve job satisfaction & work-life balance.
-7.	Data-Driven HR Strategy
-	Continuously track KPIs such as attrition rate by tenure, salary band, and job role to proactively address emerging issues.
+### Visuals:
+- **Attrition by Tenure & Age**  
+- **Attrition by Department & Role**  
+- **Salary vs Attrition**  
+- **Work Environment Impact**  
+
+These visuals help managers quickly identify **high-risk groups** and patterns across demographics, roles, and departments.
+
+---
+
+## Data Sources & Preparation
+**Dataset Includes:**  
+- **Demographics:** Age, Gender, Education, Marital Status  
+- **Job Data:** Department, Role, Salary Band, Overtime, Tenure  
+- **Satisfaction Metrics:** Job Satisfaction, Environment Satisfaction, Work-Life Balance  
+
+**Data Transformation Steps:**  
+- Cleaned missing and inconsistent entries  
+- Handled outliers in tenure and overtime values  
+- Standardized dates for analysis  
+- Added calculated columns: attrition risk, tenure bands, satisfaction indices  
+
+---
+
+## Key Metrics & Insights
+- **Tenure Impact:** Highest attrition among employees with <1 year (36%) and 1–3 years (28%)  
+- **Age Factor:** 18–25 age group shows the highest attrition (36%)  
+- **Overtime Influence:** Employees working overtime (30%) are nearly 3x more likely to leave  
+- **High-Risk Departments & Roles:** Sales, HR, and Laboratory Technicians  
+- **Salary Influence:** Attrition concentrated in employees earning ≤ 5K AED  
+- **Work Environment:** Low satisfaction and poor work-life balance correlate with turnover  
+- **Business Travel:** Frequent travel is linked to higher attrition  
+
+---
+
+## Recommendations
+- **Onboarding & Mentorship:** Improve first-year retention with structured programs  
+- **Retention Programs for Young Talent:** Training, early promotions, and career paths  
+- **Workload & Overtime Management:** Monitor and balance workloads to reduce burnout  
+- **Employee Engagement:** Conduct surveys and act on feedback in high-risk roles  
+- **Compensation Strategy:** Reassess salary bands to remain competitive  
+- **Data-Driven HR Strategy:** Continuously track KPIs to proactively address attrition  
+
+---
+
+## Business Impact
+This dashboard empowers HR managers to:  
+- Identify **high-risk employee groups** early  
+- Focus interventions on **high-attrition roles and departments**  
+- Optimize **workload, overtime, and compensation policies**  
+- Improve overall **employee satisfaction and retention**  
+
+By leveraging these insights, organizations can **reduce turnover**, strengthen engagement, and maintain a **stable workforce**.
+
+---
+
+[View Full Dashboard](#) <!-- Replace # with actual link if hosted online -->
+
 
 
  
