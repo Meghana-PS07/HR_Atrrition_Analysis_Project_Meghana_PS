@@ -1,18 +1,22 @@
 # HR Analytics & Attrition Dashboard
 
-<p align="center">
-  <a href="assests/img/Screenshot 2025-09-03 131931.png" target="_blank">
-    <img src="assests/img/Screenshot 2025-09-03 131931.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
+<div align="center">
+  <a href="/assests/img/Screenshot 2025-09-03 131931.png" target="_blank">
+    <img src="/assests/img/Screenshot 2025-09-03 131931.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
   </a>
-</p
+</div>
+
+---
 
 ## Project Overview
+
 The **HR Analytics & Attrition Dashboard** is a **Power BI project** designed to provide HR managers with actionable insights into employee attrition patterns.  
 It identifies key drivers of turnover and supports **data-driven strategies** to improve retention and workforce stability.
 
 ---
 
 ## Key Features
+
 - **Attrition by Tenure**  
 - **Attrition by Age Group**  
 - **Attrition by Job Role & Department**  
@@ -23,9 +27,11 @@ It identifies key drivers of turnover and supports **data-driven strategies** to
 ---
 
 ## Dashboard Design
+
 The dashboard is **interactive and user-centric**, enabling HR managers to explore metrics and delve into specific trends.  
 
-### Filters:
+### Filters
+
 - Tenure  
 - Age Group  
 - Department  
@@ -33,7 +39,8 @@ The dashboard is **interactive and user-centric**, enabling HR managers to explo
 - Salary Band  
 - Overtime Status  
 
-### Visuals:
+### Visuals
+
 - **Attrition by Tenure & Age**  
 - **Attrition by Department & Role**  
 - **Salary vs Attrition**  
@@ -44,12 +51,15 @@ These visuals help managers quickly identify **high-risk groups** and patterns a
 ---
 
 ## Data Sources & Preparation
+
 **Dataset Includes:**  
+
 - **Demographics:** Age, Gender, Education, Marital Status  
 - **Job Data:** Department, Role, Salary Band, Overtime, Tenure  
 - **Satisfaction Metrics:** Job Satisfaction, Environment Satisfaction, Work-Life Balance  
 
 **Data Transformation Steps:**  
+
 - Cleaned missing and inconsistent entries  
 - Handled outliers in tenure and overtime values  
 - Standardized dates for analysis  
@@ -59,59 +69,74 @@ These visuals help managers quickly identify **high-risk groups** and patterns a
 
 ## Dashboard Walkthrough
 
-The dashboard is interactive and user-centric, designed to let HR managers explore trends, drill down into specific groups, and make data-driven decisions.
+The dashboard is designed to let HR managers explore trends, drill down into specific groups, and make data-driven decisions.
 
 ### 1. Attrition by Tenure
-<p align="center">
-  <img src="assests/img/tenure.png" alt="Attrition by Tenure" width="500" />
-</p>
+
+<div align="center">
+  <img src="/assests/img/tenure.png" alt="Attrition by Tenure" width="500" />
+</div>
+
 **Insight:** Early-stage attrition is high (36% for <1 year, 28% for 1–3 years). Implement structured onboarding and mentorship programs to improve retention in the first year.
 
 ---
 
 ### 2. Age Factor
-<p align="center">
-  <img src="assests/img/age.png" alt="Attrition by Age" width="500" />
-</p>
+
+<div align="center">
+  <img src="/assests/img/age.png" alt="Attrition by Age" width="500" />
+</div>
+
 **Insight:** Young employees have higher attrition (36%). Introduce career development programs, early promotions, and training to retain this group.
 
 ---
 
 ### 3. Department & Job Role
-<p align="center">
-  <img src="assests/img/department_role.png" alt="Attrition by Department" width="500" />
-</p>
-<p align="center">
-  <img src="assests/img/job_role.png" alt="Attrition by Job Role" width="500" />
-</p>
-**Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians. Also shows the most 5 affected job roles.
+
+<div align="center">
+  <img src="/assests/img/department_role.png" alt="Attrition by Department" width="500" />
+</div>
+
+<div align="center">
+  <img src="/assests/img/job_role.png" alt="Attrition by Job Role" width="500" />
+</div>
+
+**Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians. Also highlights the 5 most affected job roles.
 
 ---
 
 ### 4. Impact of Overtime
-<p align="center">
-  <img src="assests/img/overtime.png" alt="Impact of Overtime" width="500" />
-</p>
+
+<div align="center">
+  <img src="/assests/img/overtime.png" alt="Impact of Overtime" width="500" />
+</div>
+
 **Insight:** Monitor workload and adopt policies to reduce overtime-related burnout. Employees working overtime are nearly 3x more likely to leave.
 
 ---
 
 ### 5. Salary Influence
-<p align="center">
-  <img src="assests/img/salary.png" alt="Salary Influence on Attrition" width="500" />
-</p>
+
+<div align="center">
+  <img src="/assests/img/salary.png" alt="Salary Influence on Attrition" width="500" />
+</div>
+
 **Insight:** Reassess salary bands in lower ranges to improve competitiveness and reduce attrition. Attrition concentrated among employees earning ≤ 5K AED.
 
 ---
 
 ### 6. Work Environment
-<p align="center">
-  <img src="assests/img/work_environment.png" alt="Work Environment Impact" width="500" />
-</p>
+
+<div align="center">
+  <img src="/assests/img/work_environment.png" alt="Work Environment Impact" width="500" />
+</div>
+
 **Insight:** Conduct employee engagement surveys, improve work-life balance, and act on feedback to increase retention. Low satisfaction and poor work-life balance correlate with higher attrition.
 
 ---
+
 ## Key Metrics & Insights
+
 - **Tenure Impact:** Highest attrition among employees with <1 year (36%) and 1–3 years (28%)  
 - **Age Factor:** 18–25 age group shows the highest attrition (36%)  
 - **Overtime Influence:** Employees working overtime (30%) are nearly 3x more likely to leave  
@@ -123,6 +148,7 @@ The dashboard is interactive and user-centric, designed to let HR managers explo
 ---
 
 ## Recommendations
+
 - **Onboarding & Mentorship:** Improve first-year retention with structured programs  
 - **Retention Programs for Young Talent:** Training, early promotions, and career paths  
 - **Workload & Overtime Management:** Monitor and balance workloads to reduce burnout  
@@ -133,7 +159,9 @@ The dashboard is interactive and user-centric, designed to let HR managers explo
 ---
 
 ## Business Impact
+
 This dashboard empowers HR managers to:  
+
 - Identify **high-risk employee groups** early  
 - Focus interventions on **high-attrition roles and departments**  
 - Optimize **workload, overtime, and compensation policies**  
@@ -143,7 +171,8 @@ By leveraging these insights, organizations can **reduce turnover**, strengthen 
 
 ---
 
-[View Full Dashboard](#) <!-- Replace # with actual link if hosted online -->
+[View Full Dashboard](#) <!-- Replace # with the actual link if hosted online -->
+
 
 
 
