@@ -1,6 +1,10 @@
 # HR Analytics & Attrition Dashboard
 
-![HR Analytics Dashboard](assests/img/Screenshot 2025-09-03 131931.png) <!-- Optional: Add project image or screenshot -->
+<p align="center">
+  <a href="assests/img/Screenshot 2025-09-03 131931.png" target="_blank">
+    <img src="assests/img/Screenshot 2025-09-03 131931.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
+  </a>
+</p
 
 ## Project Overview
 The **HR Analytics & Attrition Dashboard** is a **Power BI project** designed to provide HR managers with actionable insights into employee attrition patterns.  
