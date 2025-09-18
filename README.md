@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="/source/img/Screenshot 2025-09-02 140620.png" target="_blank">
-    <img src="/asource/img/Screenshot 2025-09-02 140620.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
+    <img src="/source/img/Screenshot 2025-09-02 140620.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
   </a>
 </div>
 
