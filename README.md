@@ -1,8 +1,8 @@
 # HR Analytics & Attrition Dashboard
 
 <div align="center">
-  <a href="/source/img/Screenshot 2025-09-02 140620.png" target="_blank">
-    <img src="/source/img/Screenshot 2025-09-02 140620.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
+  <a href="source/img/Screenshot 2025-09-02 140620.png" target="_blank">
+    <img src="source/img/Screenshot 2025-09-02 140620.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 1. Attrition by Tenure
 
 <div align="center">
-  <img src="/source/img/tenure.png" alt="Attrition by Tenure" width="500" />
+  <img src="source/img/tenure.png" alt="Attrition by Tenure" width="500" />
 </div>
 
 **Insight:** Early-stage attrition is high (36% for <1 year, 28% for 1–3 years). Implement structured onboarding and mentorship programs to improve retention in the first year.
@@ -84,7 +84,7 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 2. Age Factor
 
 <div align="center">
-  <img src="/source/img/age.png" alt="Attrition by Age" width="500" />
+  <img src="source/img/age.png" alt="Attrition by Age" width="500" />
 </div>
 
 **Insight:** Young employees have higher attrition (36%). Introduce career development programs, early promotions, and training to retain this group.
@@ -94,11 +94,11 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 3. Department & Job Role
 
 <div align="center">
-  <img src="/source/img/department_role.png" alt="Attrition by Department" width="500" />
+  <img src="source/img/department_role.png" alt="Attrition by Department" width="500" />
 </div>
 
 <div align="center">
-  <img src="/source/img/job_role.png" alt="Attrition by Job Role" width="500" />
+  <img src="source/img/job_role.png" alt="Attrition by Job Role" width="500" />
 </div>
 
 **Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians. Also highlights the 5 most affected job roles.
@@ -108,7 +108,7 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 4. Impact of Overtime
 
 <div align="center">
-  <img src="/source/img/overtime.png" alt="Impact of Overtime" width="500" />
+  <img src="source/img/overtime.png" alt="Impact of Overtime" width="500" />
 </div>
 
 **Insight:** Monitor workload and adopt policies to reduce overtime-related burnout. Employees working overtime are nearly 3x more likely to leave.
@@ -118,7 +118,7 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 5. Salary Influence
 
 <div align="center">
-  <img src="/source/img/salary.png" alt="Salary Influence on Attrition" width="500" />
+  <img src="source/img/salary.png" alt="Salary Influence on Attrition" width="500" />
 </div>
 
 **Insight:** Reassess salary bands in lower ranges to improve competitiveness and reduce attrition. Attrition concentrated among employees earning ≤ 5K AED.
@@ -128,7 +128,7 @@ The dashboard is designed to let HR managers explore trends, drill down into spe
 ### 6. Work Environment
 
 <div align="center">
-  <img src="/source/img/work_environment.png" alt="Work Environment Impact" width="500" />
+  <img src="source/img/work_environment.png" alt="Work Environment Impact" width="500" />
 </div>
 
 **Insight:** Conduct employee engagement surveys, improve work-life balance, and act on feedback to increase retention. Low satisfaction and poor work-life balance correlate with higher attrition.
@@ -171,14 +171,4 @@ By leveraging these insights, organizations can **reduce turnover**, strengthen 
 
 ---
 
-[Back to portfolio](#) <!-- Replace # with the actual link if hosted online -->
-
-
-
-
-
-
-
-
-
- 
+[Back to Portfolio](#) <!-- Replace # with actual link if hosted online -->
