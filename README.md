@@ -171,6 +171,8 @@ By leveraging these insights, organizations can **reduce turnover**, strengthen 
 
 ---
 
+[Portfolio](https://meghana-ps07.github.io/portfolio/) <!-- Replace # with the actual link if hosted online -->
+
 
 
 
