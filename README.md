@@ -79,9 +79,12 @@ The dashboard is interactive and user-centric, designed to let HR managers explo
 
 ### 3. Department & Job Role
 <p align="center">
-  <img src="assests/img/department_role.png" alt="Attrition by Department and Job Role" width="500" />
+  <img src="assests/img/department_role.png" alt="Attrition by Department" width="500" />
 </p>
-**Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians.
+<p align="center">
+  <img src="assests/img/job_role.png" alt="Attrition by Job Role" width="500" />
+</p>
+**Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians. Also shows the most 5 affected job roles.
 
 ---
 
