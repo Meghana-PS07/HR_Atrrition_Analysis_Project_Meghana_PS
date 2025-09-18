@@ -57,6 +57,57 @@ These visuals help managers quickly identify **high-risk groups** and patterns a
 
 ---
 
+## Dashboard Walkthrough
+
+The dashboard is interactive and user-centric, designed to let HR managers explore trends, drill down into specific groups, and make data-driven decisions.
+
+### 1. Attrition by Tenure
+<p align="center">
+  <img src="assests/img/tenure.png" alt="Attrition by Tenure" width="500" />
+</p>
+**Insight:** Early-stage attrition is high (36% for <1 year, 28% for 1–3 years). Implement structured onboarding and mentorship programs to improve retention in the first year.
+
+---
+
+### 2. Age Factor
+<p align="center">
+  <img src="assests/img/age.png" alt="Attrition by Age" width="500" />
+</p>
+**Insight:** Young employees have higher attrition (36%). Introduce career development programs, early promotions, and training to retain this group.
+
+---
+
+### 3. Department & Job Role
+<p align="center">
+  <img src="assests/img/department_role.png" alt="Attrition by Department and Job Role" width="500" />
+</p>
+**Insight:** Target engagement programs and retention strategies for high-risk departments to reduce turnover. High-risk departments: Sales, HR, Laboratory Technicians.
+
+---
+
+### 4. Impact of Overtime
+<p align="center">
+  <img src="assests/img/overtime.png" alt="Impact of Overtime" width="500" />
+</p>
+**Insight:** Monitor workload and adopt policies to reduce overtime-related burnout. Employees working overtime are nearly 3x more likely to leave.
+
+---
+
+### 5. Salary Influence
+<p align="center">
+  <img src="assests/img/salary.png" alt="Salary Influence on Attrition" width="500" />
+</p>
+**Insight:** Reassess salary bands in lower ranges to improve competitiveness and reduce attrition. Attrition concentrated among employees earning ≤ 5K AED.
+
+---
+
+### 6. Work Environment
+<p align="center">
+  <img src="assests/img/work_environment.png" alt="Work Environment Impact" width="500" />
+</p>
+**Insight:** Conduct employee engagement surveys, improve work-life balance, and act on feedback to increase retention. Low satisfaction and poor work-life balance correlate with higher attrition.
+
+---
 ## Key Metrics & Insights
 - **Tenure Impact:** Highest attrition among employees with <1 year (36%) and 1–3 years (28%)  
 - **Age Factor:** 18–25 age group shows the highest attrition (36%)  
