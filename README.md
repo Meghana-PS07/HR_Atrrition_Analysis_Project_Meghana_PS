@@ -171,7 +171,7 @@ By leveraging these insights, organizations can **reduce turnover**, strengthen 
 
 ---
 
-[View Full Dashboard](#) <!-- Replace # with the actual link if hosted online -->
+
 
 
 
