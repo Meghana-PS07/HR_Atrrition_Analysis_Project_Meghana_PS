@@ -1,8 +1,8 @@
 # HR Analytics & Attrition Dashboard
 
 <div align="center">
-  <a href="/assests/img/Screenshot 2025-09-03 131931.png" target="_blank">
-    <img src="/assests/img/Screenshot 2025-09-03 131931.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
+  <a href="assests/img/Screenshot 2025-09-03 131931.png" target="_blank">
+    <img src="assests/img/Screenshot 2025-09-03 131931.png" alt="HR Analytics Dashboard" width="600" style="border-radius: 10px;" />
   </a>
 </div>
 
